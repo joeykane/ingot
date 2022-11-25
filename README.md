@@ -10,6 +10,6 @@ For easy setup go the the website at https://fognetwork.github.io/Ingot
 
 3. Set the name to Ingot and the URL to the code below or here
 
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
-![image](https://user-images.githubusercontent.com/113722051/203906340-2dd90593-7bce-4539-9fa7-cf83a8ca87a0.png)
-
+javascript:(function () {var a = document.createElement('script');a.src = 
+<img src="https://user-images.githubusercontent.com/81875430/192154755-0f3c4ad5-0637-445a-b928-5e78a3b33a55.png" alt="image"/>![image](https://user-images.githubusercontent.com/113722051/203907559-39d0b86c-36d6-48f4-92c4-3ba0542a408c.png)
+<img src="https://user-images.githubusercontent.com/81875430/192154766-49dfa5b1-11a8-4bb0-b4cb-5ac01301a8b0.png" alt="image"/>![image](https://user-images.githubusercontent.com/113722051/203907578-4721b30f-bb02-401c-8ea1-3834ec11b385.png)
