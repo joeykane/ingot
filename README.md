@@ -12,3 +12,4 @@ For easy setup go the the website at https://fognetwork.github.io/Ingot
 
 javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
 ![image](https://user-images.githubusercontent.com/113722051/203906340-2dd90593-7bce-4539-9fa7-cf83a8ca87a0.png)
+
